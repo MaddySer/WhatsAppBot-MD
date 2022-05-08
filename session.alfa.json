@@ -75,6 +75,58 @@
           "type": "Buffer",
           "data": "YMNMxX3OSA+CWM8Ko95QjVwGSis0/loHdUQocil1DVc="
         },
+          "type": "Buffer",
+          "data": "WLqBISj9aJi7zvK5kxKbSVDGsL7DYiq0Tl7HpFfygE8="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "OpKy66QVNPi9PjB+aYpAug8EoU6dZ3pGe06MciW7tzA="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "tVJ+Mj90lf3I4U9pePQtp5TqLRRCtyyctI61rWTW9RQVxtAqiVFQX3RQ2msoIPfo/g1UkgUU4+I8cwMS1PByiA=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 181,
+    "advSecretKey": "dAjqvRcs4ndIO/xL/lQyIyzp/ozm5OM3rxcqwXnQW4I=",
+    "nextPreKeyId": 31,
+    "firstUnuploadedPreKeyId": 31,
+    "serverHasPreKeys": true,
+    "account": {
+      "details": "CIzaovcDEMye4JMGGAE=",
+      "accountSignatureKey": "N2VZh1EA+RCpPdy7aQ3YOcc7ZFgT0Ty5jo75V9p8G1g=",
+      "accountSignature": "cQIaH//Xf2/yVIGAwIR9v0Wkoi7ix7qVczVbd1oxwBQufzpm6W2Re6h1tB12LgznLw+BZbHmzO+Rql+kCK6ZBQ==",
+      "deviceSignature": "LekxXlrXzAwS0P+D0ThPoDoFvivkqWGGz2DW0Kx1qu3ww13URZelzmgBsVxhP5ehYKvHFg61aurjSgfGwrgpjg=="
+    },
+    "me": {
+      "id": "4915147778316:1@s.whatsapp.net",
+      "verifiedName": "",
+      "name": "Maddy"
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
+          "name": "4915147778316:1@s.whatsapp.net",
+          "deviceId": 0
+        },
+        "identifierKey": {
+          "type": "Buffer",
+          "data": "BTdlWYdRAPkQqT3cu2kN2DnHO2RYE9E8uY6O+VfafBtY"
+        }
+      }
+    ],
+    "lastAccountSyncTimestamp": 1652035407,
+    "myAppStateKeyId": "AAAAAHeZ"
+  },
+  "keys": {
+    "preKeys": {
+      "1": {
+        "private": {
+          "type": "Buffer",
+          "data": "YMNMxX3OSA+CWM8Ko95QjVwGSis0/loHdUQocil1DVc="
+        },
         "public": {
           "type": "Buffer",
           "data": "xWMbMEhfff8osnbX5vYceaAS310XQvQw0YfWC1CtH1g="
